@@ -1,4 +1,4 @@
-# Hi there, I'm Gavin 👋
+# Hi there, I'm Tung Nguyen Duy (Gavin) 👋
 
 I'm a frontend developer with experience in React and Typescript. I'm passionate about writing clean and efficient code, and I love working on projects that challenge me to learn and grow as a developer.
 
