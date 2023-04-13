@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Gavin 👋
 
-<!--
-**Gnutyud/gnutyud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer with experience in React and Typescript. I'm passionate about writing clean and efficient code, and I love working on projects that challenge me to learn and grow as a developer.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Typescript
+- HTML/CSS
+- JavaScript
+- Git
+
+## Personal Projects
+
+Here are some of the personal projects I've worked on:
+
+- **My Blog:** A blog made with Next.js and Node.js for the backend, hosted for free on [sharetolearn blog](https://sharetolearn.vercel.app/).
+- **Note Keeper:** My first React app inspired by Google Keep, built with Node.js and hosted on [Wekeep app](https://wekeep.onrender.com/).
+- **My Portfolio Website:** A website I created when I first started learning HTML, CSS, and JavaScript, hosted on [GitHub Pages](https://pages.github.com/).
+
+## Contact Me
+
+Feel free to reach out to me through email or LinkedIn:
+
+- Email: nguyenduytungtd3@email.com
+- LinkedIn: [linkedin.com/in/gavin](https://www.linkedin.com/in/gavinnguyen/)
+
