@@ -5,9 +5,13 @@ I'm a frontend developer with experience in React and Typescript. I'm passionate
 ## Skills
 
 - React
+- Angular
 - Typescript
 - HTML/CSS
 - JavaScript
+- Nodejs
+- Express
+- MongoDB
 - Git
 
 ## Personal Projects
