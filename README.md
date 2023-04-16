@@ -18,9 +18,9 @@ I'm a frontend developer with experience in React and Typescript. I'm passionate
 
 Here are some of the personal projects I've worked on:
 
-- **My Blog:** A blog made with Next.js and Node.js for the backend, hosted for free on [sharetolearn blog](https://sharetolearn.vercel.app/).
-- **Note Keeper:** My first React app inspired by Google Keep, built with Node.js and hosted on [Wekeep app](https://wekeep.onrender.com/).
-- **My Portfolio Website:** A website I created when I first started learning HTML, CSS, and JavaScript, hosted on [GitHub Pages](https://pages.github.com/).
+- **My Blog:** A blog made with Next.js and Node.js for the backend, hosted for free on [Vercel - sharetolearn blog](https://sharetolearn.vercel.app/).
+- **Note Keeper:** My first React app inspired by Google Keep, built with Node.js and hosted on [Render - Wekeep app](https://wekeep.onrender.com/).
+- **My Portfolio Website:** A website I created when I first started learning HTML, CSS, and JavaScript, hosted on [GitHub Pages - My Portfolio](https://gnutyud.github.io/Portfolio).
 
 ## Contact Me
 
