@@ -6,6 +6,7 @@ I'm a frontend developer with experience in React and Typescript. I'm passionate
 
 - React
 - Angular
+- Nextjs
 - Typescript
 - HTML/CSS
 - JavaScript
