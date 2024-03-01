@@ -7,6 +7,7 @@ I'm a frontend developer with experience in React and Typescript. I'm passionate
 - React
 - Angular
 - Nextjs
+- React Native
 - Typescript
 - HTML/CSS
 - JavaScript
@@ -22,6 +23,8 @@ Here are some of the personal projects I've worked on:
 - **My Blog:** A blog made with Next.js and Node.js for the backend, hosted for free on [sharetolearn blog](https://www.sharetolearn.pro/).
 - **Note Keeper:** My first React app inspired by Google Keep, built with Node.js and hosted on [Render - Wekeep app](https://wekeep.onrender.com/).
 - **My Portfolio Website:** A website I created when I first started learning HTML, CSS, and JavaScript, hosted on [GitHub Pages - My Portfolio](https://gnutyud.github.io/Portfolio).
+- **F319 - Diễn đàn chứng khoán Việt Nam:** A React Native App publish on [Google Play Store](https://play.google.com/store/apps/details?id=com.gnutyud.f319&gl=US).
+- **Tiktok Getter: Download video:** A React Native App for download Tiktok video without watermark publish on [Google Play Store](https://play.google.com/store/apps/details?id=com.bongmedia.tiktokgetter&gl=US).
 
 ## Contact Me
 
