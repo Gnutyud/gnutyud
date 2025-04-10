@@ -13,7 +13,7 @@ I'm a frontend developer with experience in React and Typescript. I'm passionate
 - JavaScript
 - Nodejs
 - Express
-- MongoDB/MySql
+- MongoDB/MySQL
 - Git
 
 ## Personal Projects
